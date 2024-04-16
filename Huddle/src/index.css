@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url("../src/assets/images/bg-desktop.svg");
+  background-color: #674bb1;
+  background-attachment: fixed;
+  background-position: center;
+  
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
