@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <section>
+      <section className='flex flex-row justify-center items-center  '>
           <Main/>
       </section>
     </>
