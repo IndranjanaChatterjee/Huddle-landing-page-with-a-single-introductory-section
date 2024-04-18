@@ -12,10 +12,10 @@ Users should be able to:
 
 ### Screenshot1
 
-![](./Huddle/src/assets/images/screenshot1.png)
+![](./Huddle/src/assets/screenshot1.png)
 
 ### Screenshot2
-![](./Huddle/src/assets/images/screen2.png)
+![](./Huddle/src/assets/screen2.png)
 
 
 
