@@ -23,7 +23,7 @@ export default function Main() {
             engage in genuine discussion.
           </p>
 
-          <button className="bg-[#fffdff] text-[#57488e] lg:w-[9rem] w-[15rem] text-center lg:h-[3rem] h-[3rem] p-[1rem] flex flex-row justify-center items-center rounded-[2rem]">Register</button>
+          <button className="bg-[#fffdff] text-[#57488e] lg:w-[10rem] w-[15rem] text-center lg:h-[3rem] h-[3rem] p-[1rem] flex flex-row justify-center items-center rounded-[2rem] text-[1.1rem]">Register</button>
           <div className="flex flex-row  w-full items-center lg:justify-end justify-center gap-[1rem] mt-[5rem] mb-[1rem]">
           <div className="border-solid border-white border-[2px] rounded-full w-[2rem] h-[2rem] flex flex-row justify-center items-center hover:cursor-pointer hover:border-[#f854c3]"><img src={fb} alt="" className="w-[0.7rem] hover:fill-black"/></div>
           <div className="border-solid border-white border-[2px] rounded-full w-[2rem] h-[2rem] flex flex-row justify-center items-center hover:cursor-pointer hover:border-[#f854c3]"><img src={twit} alt="" className="w-[1rem]"/></div>
