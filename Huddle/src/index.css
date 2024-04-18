@@ -48,3 +48,7 @@ button:hover
   background-color: #ea7fe7;
   color: white;
 }
+svg:hover
+{
+  fill: red;
+}
