@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Interactive-rating-component)
-- Live Site URL: [live site URL](https://interactive-rating-component-rust-eight.vercel.app/)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Huddle-landing-page-with-a-single-introductory-section)
+- Live Site URL: [live site URL](https://huddle-landing-page-with-a-single-introductory-section-phi-six.vercel.app/)
 
 
 ## My process
